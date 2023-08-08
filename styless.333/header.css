@@ -1,0 +1,100 @@
+.lift-part{
+margin-left: 15px;
+ color: white; 
+}
+.right-part{
+    margin-right: 25px;
+   
+
+}
+.middle-part{
+    
+    background-color: rgb(25, 135, 213);
+    margin-right: 25px;
+    display: flex;
+    border-left: 20px;
+
+}
+
+.search-icon{
+    height: 24px;
+    width: 22px;
+    background-color: rgb(181, 176, 176);
+    border: 1px;
+    border-style: solid;
+}
+.logo-design{
+ margin-left: 120px;
+}
+
+.text-design{
+    text-align: right;
+    margin-right: 10px;
+    background-color: white;
+  
+    
+}
+.head-1{
+    border-left: 200px;
+    background-color: brown;
+    text-align: right;
+
+   
+}
+
+.market-pic{
+align-items: center;
+    
+}
+
+.contacts{
+    background-color: rgb(25, 135, 213);
+    height: 100px;
+}
+.footer1{
+    background-color: rgb(25, 135, 213);
+    height: 200px;
+}
+.address-1{
+    margin-right: 20px ;
+    
+ 
+}
+
+
+.worktime{
+    margin-left: 60px
+}
+
+
+ .middle-30 {
+    background-color: rgb(48, 166, 239);
+    font-size: 3rem;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    grid-template-rows: 1fr 1fr 1fr;
+
+    color:white;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+   
+    
+   
+ }
+ .tiktok{
+    margin-left: 100px;
+ }
+ .twitter{
+    margin-right: 100px;
+ }
+
+ .address1{
+    margin-right: 30px;
+ }
+.sazish200{
+    border-bottom: 0px;
+
+}
